@@ -8,8 +8,10 @@ Determining credit risk can present a challenge due the the nature of the busine
 
 After learning a variety of techniques when working with imbalanced data, those skill are put to use to help a dear friend, Jill, determine a model that will most benefit the company going forward to evaluate credit risk.  The tools that will be utilized for this analysis are:
                 |*RandomOverSampler
-                *SMOTE
-                *ClusterCentroids
+                
+                |*SMOTE
+                
+                |*ClusterCentroids
                 *SMOTEENN
                 *BalancedRandomForestClassifier
                 *EasyEnsembleClassifier
