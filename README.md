@@ -19,45 +19,45 @@ Once the analysis is complete, we will wrap up the full presentation with a reco
 ## RESULTS OF MODELS
 ##### Random Over Sampler 
 - Confusion Matrix: 
-                   ![ros_confusion]()
+                   ![ros_confusion](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/ros_confusion.PNG)
 - Balanced Accuracy: 65.7%
 - Classification Report: 
-                   ![ros_classification]()
+                   ![ros_classification](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/ros_classification.PNG)
                    
 ##### SMOTE Oversampling
 - Confusion Matrix: 
-                   ![smote_confusion]()
+                   ![smote_confusion](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/smote_confusion.PNG)
 - Balanced Accuracy: 66.2%
 - Classification Report: 
-                   ![smote_classification]()
+                   ![smote_classification](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/smote_classification.PNG)
                    
 ##### ClusterCentroid Undersampling
 - Confusion Matrix: 
-                   ![cc_confusion]()
+                   ![cc_confusion](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/cc_confusion.PNG)
 - Balanced Accuracy: 54.4%
 - Classification Report: 
-                   ![cc_classification]()
+                   ![cc_classification](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/cc_classification.PNG)
                    
 ##### SMOTEENN Combination Sampling
 - Confusion Matrix: 
-                   ![smoteenn_confusion]()
+                   ![smoteenn_confusion](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/smoteenn_confusion.PNG)
 - Balanced Accuracy: 68.8%
 - Classification Report: 
-                   ![smoteenn_classification]()
+                   ![smoteenn_classification](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/smoteenn_classification.PNG)
 
 ##### BalancedRandomForestClassifier
 - Confusion Matrix: 
-                   ![brf_confusion]()
+                   ![brf_confusion](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/brf_confusion.PNG)
 - Balanced Accuracy: 78.9%
 - Classification Report: 
-                   ![brf_classification]()
+                   ![brf_classification](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/brf_classification.PNG)
 
 ##### EasyEnsembleClassifier
 - Confusion Matrix: 
-                   ![eec_confusion]()
+                   ![eec_confusion](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/eec_confusion.PNG)
 - Balanced Accuracy: 93.2%
 - Classification Report: 
-                   ![eec_classification]()
+                   ![eec_classification](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/eec_classification.PNG)
                    
                    
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
