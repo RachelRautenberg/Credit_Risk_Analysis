@@ -48,7 +48,7 @@ Once the analysis is complete, we will wrap up the full presentation with a reco
 
 ##### BalancedRandomForestClassifier
 - Confusion Matrix: 
-                   ![brf_confusion](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/brf_confusion.PNG)
+                   ![brf_confusion]()
 - Balanced Accuracy: 78.9%
 - Classification Report: 
                    ![brf_classification](https://github.com/RachelRautenberg/Credit_Risk_Analysis/blob/main/Resources/brf_classification.PNG)
