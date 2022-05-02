@@ -17,6 +17,47 @@ Once the analysis is complete, we will wrap up the full presentation with a reco
 
 
 ## RESULTS OF MODELS
-##### RandomOverSampler
+##### Random Over Sampler 
+- Confusion Matrix: 
+                   ![ros_confusion]()
+- Balanced Accuracy: 65.7%
+- Classification Report: 
+                   ![ros_classification]()
+                   
+##### SMOTE Oversampling
+- Confusion Matrix: 
+                   ![smote_confusion]()
+- Balanced Accuracy: 66.2%
+- Classification Report: 
+                   ![smote_classification]()
+                   
+##### ClusterCentroid Undersampling
+- Confusion Matrix: 
+                   ![cc_confusion]()
+- Balanced Accuracy: 54.4%
+- Classification Report: 
+                   ![cc_classification]()
+                   
+##### SMOTEENN Combination Sampling
+- Confusion Matrix: 
+                   ![smoteenn_confusion]()
+- Balanced Accuracy: 68.8%
+- Classification Report: 
+                   ![smoteenn_classification]()
 
+##### BalancedRandomForestClassifier
+- Confusion Matrix: 
+                   ![brf_confusion]()
+- Balanced Accuracy: 78.9%
+- Classification Report: 
+                   ![brf_classification]()
+
+##### EasyEnsembleClassifier
+- Confusion Matrix: 
+                   ![eec_confusion]()
+- Balanced Accuracy: 93.2%
+- Classification Report: 
+                   ![eec_classification]()
+                   
+                   
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
