@@ -13,6 +13,7 @@ After learning a variety of techniques when working with imbalanced data, those 
   * SMOTEENN
   * BalancedRandomForestClassifier
   * EasyEnsembleClassifier
+
 Once the analysis is complete, we will wrap up the full presentation with a recommendation, or justification for no recommendation, based on the performance of the various models to predict credit risk. 
 
 
